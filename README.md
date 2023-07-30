@@ -16,3 +16,9 @@ $ git remote -v
 # Verify new remote
 > origin  https://github.com/OWNER/REPOSITORY.git (fetch)
 > origin  https://github.com/OWNER/REPOSITORY.git (push)
+
+# Push existing repository to command line
+
+git remote add origin https://github.com/*name*/*name*.git
+git branch -M main
+git push -u origin main
