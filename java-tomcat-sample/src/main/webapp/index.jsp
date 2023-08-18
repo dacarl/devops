@@ -5,6 +5,6 @@
 <h3>Modified the Pipeline Dev to prod</h3>
 <p>Thanks for viewing this amazing tutorial. stay tuned for more amazing tutorials. This is all in the production pipeline</p>
 
-<p>Welcome prof.</p>
+<p></p>
 </body>
 </html>
